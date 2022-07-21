@@ -61,6 +61,7 @@
     .header_text {
         margin: 0%;
         width: 60%;
+        margin-top: 20px;
     }
     .header_text h1{
         font-size: 35px;

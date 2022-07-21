@@ -39,7 +39,7 @@ body {
 .header_text{
     margin: 80px;
     margin-top: 80px;
-    
+    margin-bottom: 0%;
 }
 
 .header_text h1 {
@@ -58,7 +58,7 @@ body {
 .common_button{
     outline: none;
     padding: 15px 40px;
-    border-radius: 50px;
+    border-radius: 10px;
     background: transparent;
     border: 1.5px solid crimson;
     background:crimson;
